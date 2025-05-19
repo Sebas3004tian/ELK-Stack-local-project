@@ -137,4 +137,4 @@ Done! You should now be able to visualize logs from the Nginx microservice in Ki
 This setup was created with the helpful guidance of [ChatGPT](https://openai.com/chatgpt) 
 
 
-© 2025 - Platforms II Workshop · Telematics Engineering
+2025 - Platforms II Workshop · Telematics Engineering
